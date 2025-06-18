@@ -1,40 +1,39 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Otavio Senra",
+  "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHNb-t8-78d_A/profile-displayphoto-shrink_800_800/B4DZYyzxCGG4Ag-/0/1744609154071?e=1755734400&v=beta&t=bDj91HoOBbff8__bqw7LAO047WEiqYRliwTc-0PSikQ",
+  "job": "Desenvolvedor Pleno na Ingenea - Ternium",
+  "location": "Rio de Janeiro - RJ",
+  "phone": "(21) 99432-3333",
+  "email": "senraotavio@gmail.com",
   "skills": {
     "hardSkills": [
       {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/otaviosenra/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/otaviosenra/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/otaviosenra/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/otaviosenra/js-developer-portfolio/main/data/imgs/csharp.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/otaviosenra/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/otaviosenra/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +41,29 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
-  ],
-  "portfolio": [
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
-    }
+    "Inglês (avançado)",
+    "Espanhol (intermediário)"
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedor Pleno / Ingenea",
+      "period": "Set de 2024 - até o momento",
+      "description": "Análise e desenvolvimento de soluções para a gestão dos processos das linhas de produção das siderúrgicas Ternium e manutenção de aplicações existentes.\n\nDesenvolvimento Frontend: Angular, jQuery, HTML5, Bootstrap, CSS, JavaScript, TypeScript\n\nDesenvolvimento back-end: C#, .NET"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Desenvolvedor Pleno / F4G",
+      "period": "Jul de 2024 - Set de 2024",
+      "description": "Atuei na análise, desenvolvimento e manutenção de sistemas, aplicando metodologias ágeis como Scrum e Kanban para otimizar processos e melhorar a colaboração entre as equipes.\n\nTecnologias utilizadas:\n\nFrontend: React, Angular\nBackend: Node.js, Spring Boot\nControle de versão: Git\nContainerização: Docker (para configuração e execução de ambientes locais)"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Desenvolvedor Pleno / Tardis Tecnologia",
+      "period": "Mar de 2021 - Dez de 2023",
+      "description": "Iniciei minha jornada na Tardis Tecnologia como desenvolvedor júnior, progredindo até o cargo de desenvolvedor pleno, onde contribui em diversos projetos de consultoria, sendo designado para diversos  projetos junto a clientes finais, além de contribuir para as operações na fábrica interna da empresa. Durante esse período, utilizei tecnologias como JEE, participei ativamente na migração de projetos legados, trabalhei com SpringBoot, Node, Angular e gerenciei bancos de dados relacionais como SQL Server e Oracle. Além disso, meu escopo envolveu práticas de versionamento utilizando Git, com a aplicação de metodologias ágeis como Scrum e Kanban."
+    },
+    {
+      "name": "Desenvolvedor Junior / Collunas",
+      "period": "Fev de 2018 - Jan de 2021",
+      "description": "Iniciei e dei manutenção em um projeto interno para o Collunas. Front em Angular com Back em Node e banco de dados em SQL Server."
     }
   ]
 }
